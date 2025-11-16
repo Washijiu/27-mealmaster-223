@@ -1,0 +1,28 @@
+// data.json
+{
+    "site": {
+        "name": "示例网站",
+        "description": "一个简约的无主题示例网站，用于演示 HTML、CSS 和 JSON 的基本使用。",
+        "version": "1.0.0",
+        "author": "匿名"
+    },
+    "navigation": [
+        {
+            "label": "首页",
+            "href": "#home"
+        },
+        {
+            "label": "关于",
+            "href": "#about"
+        },
+        {
+            "label": "联系",
+            "href": "#contact"
+        }
+    ],
+    "content": {
+        "welcome": "这是一个简约的无主题示例网站。",
+        "about": "仅用于演示 HTML、CSS 和 JSON 的基本结构。",
+        "contact": "查看 data.json 获取示例数据。"
+    }
+}
