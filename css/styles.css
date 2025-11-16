@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "ShangguSerif";
+  src: url("../font/ShangguSerifSC/ShangguSerifSC-Bold.ttf") format("truetype");
+}
+
+h1 {
+  font-family: "ShnagguSerif", serif;
+  color: rgb(255, 240, 249);
+  font-size: 32px;
+  background-color: rgb(27, 46, 83);
+  margin: 0px;
+}
+
+p {
+  margin: 50px;
+}
